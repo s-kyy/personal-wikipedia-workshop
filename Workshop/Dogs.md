@@ -1,0 +1,1 @@
+Dogs can be friendly with other animals

@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "de4eb449866350bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "4db8dbd8a22f4f5d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Bread.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "616d1ee54e166104",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0078d865f46f6d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b8708eb28db3ebf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "30c4a842b6ed2f3a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "38ad398df97ca694",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ad815695eae7c04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56bc2e9bf90a5e17",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bread.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4db8dbd8a22f4f5d",
+  "lastOpenFiles": [
+    "Bread.md",
+    "Peanut Butter & Jelly Sandwich.md",
+    "another new note.md",
+    "Untitled.md",
+    "new note bad.md",
+    "new note.md"
+  ]
+}
