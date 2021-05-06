@@ -9,3 +9,7 @@
 Extra Examples: 
 - Templates (see `/files/templates` folder)
 - [[Examples of notes]]
+
+---
+created: 2021-05-02
+modified: 2021-05-06

@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Workshop Material/1 Outline.md",
-            "mode": "preview"
+            "mode": "source"
           }
         },
         "group": "b2325b8033cc761d"
@@ -22,7 +22,7 @@
           "type": "markdown",
           "state": {
             "file": "Workshop Material/1 Outline.md",
-            "mode": "source"
+            "mode": "preview"
           }
         },
         "group": "b2325b8033cc761d"
@@ -125,20 +125,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "6a9f6cd2e7860a60",
   "lastOpenFiles": [
     "Workshop Material/1 Outline.md",
-    "Workshop Material/3 Creating notes from articles.md",
-    "Workshop Material/S- What if this isn't a good time for getting to know yourself - 3 Wiki-links.md",
-    "unfinished/random.md",
-    "unfinished/Untitled.md",
-    "Workshop Material/Do things in moderation.md",
-    "dailies/2020-11-05.md",
-    "Workshop Material/S- What if this isn't a good time for getting to know yourself - 2 Notes.md",
+    "Potential has a shelf life.md",
+    "Mendelian Inheritance.md",
+    "Gregor Mendel.md",
+    "Dogs.md",
+    "Cats.md",
     "Workshop Material/S- What if this isn't a good time for getting to know yourself - 1 Raw.md",
-    "Workshop Material/2 Basics.md"
+    "Workshop Material/Examples of notes.md",
+    "files/templates/How can I use templates.md",
+    "dailies/2021-02-15.md"
   ]
 }

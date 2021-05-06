@@ -1,0 +1,1 @@
+The `unfinished` folder is a folder I defined in the settings as a place to hold all my newly created notes. This makes my new thoughts and ideas separated from my more developed throughts in the root folder of my vault. 

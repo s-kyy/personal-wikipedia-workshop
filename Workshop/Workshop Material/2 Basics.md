@@ -17,3 +17,7 @@
 - Quick Note Switcher `CTRL-O`
 - Command Palette `CTRL-P`
 - Graph View `CTRL-G`
+
+---
+created: 2021-04-27
+modified: 2021-05-05

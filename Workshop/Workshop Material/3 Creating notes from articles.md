@@ -18,3 +18,7 @@ Original Article: [What if this isn't a good time for getting to know yourself?]
 - Free write about the idea first
 - [ABC list](https://www.youtube.com/watch?v=pahwCFq8eaw) 
 - You don't need to!
+
+---
+created: 2021-05-02
+modified: 2021-05-05
